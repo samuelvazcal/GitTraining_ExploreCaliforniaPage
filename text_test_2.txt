@@ -1,2 +1,4 @@
 //This is a test file, during SourceTree learning
 A new line
+These are lines are very important, too!
+I want to write lorem ipsum but I don't know how to do it here!
